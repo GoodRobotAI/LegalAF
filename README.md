@@ -29,8 +29,11 @@ The advent of AI in the legal field is reshaping the profession in profound ways
 ## Prompts for Legal Research & Practice
 
 Prompts for Legal Research
+
 Provide examples of [legal case/issue]
+
 What are the latest developments in [legal area]?
+
 What are the relevant laws or regulations regarding [legal issue]?
 What is the history of [legal case/issue]?
 What is the legal definition of [legal term or phrase]
