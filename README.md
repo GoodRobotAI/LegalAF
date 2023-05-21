@@ -26,27 +26,40 @@ Despite the benefits, the use of AI in law also raises important **ethical quest
 The advent of AI in the legal field is reshaping the profession in profound ways. While AI can automate many tasks, it cannot replace the nuanced judgement, empathy, and advocacy skills that are the hallmark of a good lawyer. The future will likely see a blend of AI technology and human expertise, leading to a more efficient and effective legal system.
 
 
-## Prompts for Legal Research & Practice
+# Prompts 
 
-Prompts for Legal Research
+## Prompts for Legal Research
 
 Provide examples of [legal case/issue]
 
 What are the latest developments in [legal area]?
 
 What are the relevant laws or regulations regarding [legal issue]?
+
 What is the history of [legal case/issue]?
+
 What is the legal definition of [legal term or phrase]
+
 What is the legal precedent for [legal case/issue]?
+
 What are the pros and cons of [legal argument/position]?
+
 What is the standard for [legal issue] in [jurisdiction]?
+
 What are the key legal arguments in [legal case/issue]?
+
 Provide a summary of [case name]
+
 Summarize the following contract: [copy and paste contract]
+
 What is the statute of limitations for [type of case] in [state or jurisdiction]?
+
 Outline the steps involved in [legal process or procedure]
+
 What is the significance of [case name]?
-Prompts for Drafting Legal Documents
+
+## Prompts for Drafting Legal Documents
+
 Draft a [legal document type] for [legal scenario]
 Draft a [legal document type] for [party 1] and [party 2]
 Write a [legal document type] for [legal issue]
